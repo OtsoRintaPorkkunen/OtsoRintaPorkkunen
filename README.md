@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I´am Otso Rinta-Porkkunen</h1>
-<h3 align="center">Gradian opiskelija</h3>
+<h3 align="center">Student at Gradia</h3>
 
 - 📫 How to reach me **rp.odie@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
